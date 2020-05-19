@@ -1,0 +1,29 @@
+{
+  "name": "serenityjs-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serenity-js/assertions": "^2.4.1",
+    "@serenity-js/console-reporter": "^2.4.1",
+    "@serenity-js/core": "^2.4.1",
+    "@serenity-js/jasmine": "^2.4.1",
+    "@serenity-js/serenity-bdd": "^2.4.1",
+    "@types/chai": "^4.2.11",
+    "chai": "^4.2.0",
+    "log4js": "^6.2.1",
+    "playwright": "^1.0.2",
+    "tiny-types": "^1.14.1",
+    "ts-node": "^8.10.1",
+    "xmlbuilder2": "^2.1.2"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.5.10",
+    "jasmine": "^3.5.0"
+  }
+}
